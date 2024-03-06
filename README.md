@@ -1,2 +1,5 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Target Test
+
+Desafio técnico para o teste da Target Sistemas;
+
+Resolução do exercício da sequência de Fibonacci e do exercício de inverter uma String;
