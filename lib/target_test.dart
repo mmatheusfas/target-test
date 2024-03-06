@@ -25,6 +25,5 @@ String fibonnaciNumber (int number){
       invertedString += originalString[i];
     }
 
-
     return invertedString;
   }
